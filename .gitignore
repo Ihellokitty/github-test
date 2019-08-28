@@ -1,6 +1,6 @@
 # Compiled class file
 *.class
-#eclipse exclude
+#eclipse exclude 2019
 .project 
 .idea
 # Log file
